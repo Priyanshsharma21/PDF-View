@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.home{
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
+
+.titleOfApp{
+  padding-top: 3rem;
+  font-size: 4.5rem;
+
+}
+
+.imgBox{
+  margin-top: 2.4rem;
+}
